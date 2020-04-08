@@ -1,0 +1,16 @@
+{
+  "name": "covid19-co",
+  "version": "1.0.0",
+  "description": "",
+  "main": "action.js",
+  "dependencies": {
+    "puppeteer": "^2.1.1",
+    "csvtojson": "^2.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node action.js"
+  },
+  "author": "cdiaz",
+  "license": "ISC"
+}
