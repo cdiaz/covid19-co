@@ -2,7 +2,7 @@ name: daily
 
 on:
   schedule:
-    - cron:  '30 13-18 * * *'
+    - cron:  '30 18-23 * * *'
 jobs:
   extract_job:
     runs-on: ubuntu-latest
